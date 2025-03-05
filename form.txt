@@ -1,0 +1,149 @@
+<form action="mailto:liankyle.ang.mnl@eac.edu.ph" method="post" enctype="text/plain">
+
+<table cellpadding="40">
+<tbody><tr>
+<td>
+<h2>FILL OUT THE FORM </h2><table>
+
+<tbody><tr>
+					
+<td>
+<label><b> First Name </b></label>
+</td>
+<td>
+<input type="text" name="First Name: " value=""> 
+</td>
+</tr>
+<tr>
+<td>
+<label><b> Middle Name</b> </label>
+</td>
+<td>
+<input type="text" name="Middle Name: " value=""> 
+</td>
+</tr>
+<tr>
+<td>
+<label><b> Last Name</b> </label>
+</td>
+<td>
+<input type="text" name="Last Name:" value=""> 
+</td>
+</tr>
+<tr>
+<td>
+<label><b> Email</b> </label>
+</td>
+<td>
+<input type="email" name="Email:" value=""> 
+</td>
+</tr>
+<tr>
+<td>
+<label><b> Address</b> </label>
+</td>
+<td>
+<input type="text" name="Address: " value=""> 
+</td>
+</tr>
+<tr>
+<td>
+<label><b>Contact No.</b> </label>
+</td>
+<td>
+<input type="number" name="Contact Number: " value=""> 
+</td>
+</tr>
+<tr>
+<td>
+<label><b>More Info</b> </label>
+</td>
+<td>
+<textarea name="Customer's Additional Note: " cols="20" rows="5"> </textarea>
+</td>
+</tr>
+<tr>
+<td>
+<label><b>Payment</b> </label>
+</td>
+<td>
+<input type="radio" name="Cash on Delivery Option"> <b> Cash on Delivery </b> <br>
+<input type="radio" name="Bank Deposit Option"> <b> Bank Deposit </b><br>
+<input type="radio" name="G-Cash Option"> <b> G-Cash </b> <br>
+</td>
+</tr>
+<tr>
+<td>
+<input type="submit">
+</td>
+</tr>
+</tbody></table></td>
+
+<td>
+<table>
+<tbody><tr>
+<td>
+<input type="checkbox" name="AMNESIA ALBUM" value="1,500"> 
+</td>
+<td>
+<label><b> AMNESIA </b></label>
+</td>
+<td>
+<img src="ni.jpg" height="250" width="250">
+</td>
+<td>
+<input type="checkbox" name="5 SECONDS OF SUMMER ALBUM 1" value="1,500"> 
+</td>
+<td>
+<label><B> 5 SECONDS OF SUMMER ALBUM 1 </B></label>
+</td>
+<td>
+<img src="ne.jpg" height="250" width="250">
+</td>
+<td>
+<input type="checkbox" name="LIVE" value="1,500"> 
+</td>
+<td>
+<label><b> LIVE ALBUM </b></label>
+</td>
+<td>
+<img src="live.jpg" height="250" width="250">
+</td>
+</tr>
+<tr>
+<td>
+<input type="checkbox" name="YOUNGBLOOD" value="1,500"> 
+</td>
+<td>
+<label><B> YOUNGBLOOD </B></label>
+</td>
+<td>
+<img src="yb.png" height="250" width="250">
+</td>
+<td>
+<input type="checkbox" name="CALM" value="1,500"> 
+</td>
+<td>
+<label><B> CALM </B></label>
+</td>
+<td>
+<img src="li.jpg" height="250" width="250">
+</td>
+<td>
+<input type="checkbox" name="5SOS ALBUM 5" value="1,500"> 
+</td>
+<td>
+<label><B> 5SOS ALBUM 5 </B></label>
+</td>
+<td>
+<img src="na.jpg" height="250" width="250">
+</td>
+
+</tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+</form>
+<p> <a href="index.html">BACK</a> 
+
+</p></body>

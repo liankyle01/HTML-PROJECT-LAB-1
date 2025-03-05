@@ -1,0 +1,6 @@
+<html><head></head><body>
+<center>
+<a href="album1.html"><img src="yb.png" class="center" width="1920" height="900"></a>
+<a href=table.html">home</a>
+</center>
+</body></html>
